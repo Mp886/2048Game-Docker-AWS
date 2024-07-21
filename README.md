@@ -23,7 +23,12 @@ cd 2048
 You can use the Dockerfile provided in the repository or else you can create your u=own dockerfile with correct Instructions and arguments.
 
  # Build the Docker Image
- docker build -t 2048-game .
+Build the docker image From the dockerfile you have to create a docker image by using command "docker build" with the required parameters. For the entire command, i have given the command below. In the below command "-t" specifies the name of the image. In my case i have given 2048game for my image. You can use the same tag name or your desired tag name.
+
+docker build -t 2048game .
+
+# Run the Docker Container
+
 
 
   
