@@ -75,7 +75,7 @@ AWS Elastic Beanstalk will create the environment and deploy the Docker containe
 
 8) Access Your Application:
 
-Open your browser and navigate to the provided URL to see the 2048 game running.
+- Open your browser and navigate to the provided URL to see the 2048 game running.
 
 
   
